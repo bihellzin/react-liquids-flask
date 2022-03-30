@@ -1,0 +1,23 @@
+.flask {
+    border: 1px solid black;
+    width: 60px;
+    margin-top: 10px;
+}
+
+.color__red {
+    height: 20px;
+    background-color: red;
+    margin: 2px 0;
+}
+
+.color__blue {
+    height: 20px;
+    background-color: blue;
+    margin: 2px 0;
+}
+
+.color__null {
+    height: 20px;
+    background-color: transparent;
+    margin: 2px 0;
+}
